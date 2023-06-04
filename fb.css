@@ -1,0 +1,126 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    width: 50%;
+    float: left;
+    
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-image{
+    margin-left: 80 px;
+    width: 45%;
+    height: 80px;
+    
+}
+.login-label{
+    color: white;
+    font-size: 13px;
+}
+.login-controls{
+    margin-left: 115px;
+
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #fff;
+    margin-left: 5px;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.submit-button{
+    background: #4267b2;
+    color: #fff;
+    border-color:#4267b2 ;
+    cursor: pointer;
+}
+.submit-button:hover{
+    background: darkblue;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-section{
+    width: 39%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 500px;
+}
+.image{
+    width: 600px;
+}
+.left-section-text{
+    font-weight: bold;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.first-surname{
+    height: 35px;
+    width: 200px;
+    margin-left: 2px;
+    margin-top: none;
+    border-color: black;
+    border-radius: 2px;
+    font-size: 15px;
+    border-color: #fff;
+}
+.Email-mobile{
+    height: 35px;
+    width: 415px;
+    margin-top: none;
+    border-color: black;
+    border-radius: 2px;
+    margin-left: 6px;
+    margin-top: 10px;
+   
+    font-size: 15px;
+    border-color: #fff;
+}
+.align{
+    margin-left: 5px;
+    margin-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.align1{
+    margin-left: 5px;
+    margin-top: -2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.dob{
+    width: 100px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: -2px;
+    border-radius: 5px;
+
+}
+.Signup{
+    margin-top: 20px;
+    background: linear-gradient(90deg, rgba(46,181,19,1) 30%, rgba(29,142,7,1) 95%);
+    
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+}
+.grey{
+    font-weight: normal;
+    color: grey;
+}
